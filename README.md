@@ -1,11 +1,16 @@
-## Hi there 🐯👋
+<div align="center">
+  
+## 👋 Hi there I'm SJ-J! 🐯
 
-🔭 Backend Web Developer
-<br>📚 Currently learning React
+**🔭 Backend Web Developer** &emsp;&emsp;|&emsp;&emsp; 
+**📚 Currently learning React** &emsp;&emsp;|&emsp;&emsp; 
+**📬 <a href="mailto:sjnnus@gmail.com"><img src="https://img.shields.io/badge/Email-sjnnus@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>**
+</div>
 
+----
 
----
-
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-J&layout=compact&hide_border=true)
 
 ### 🛠 Tech Stack
 
@@ -17,12 +22,3 @@
 | **Tools & IDE** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![EclipseIDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-8BC0D0?style=flat-square&logo=dbeaver&logoColor=black) <br>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Infra & DevOps** | ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 
----
-
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-J&layout=compact&hide_border=true)
-
----
-
-### 📬 Contact
-[![Email](https://img.shields.io/badge/Email-sjnnus@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sjnnus@gmail.com)
