@@ -19,10 +19,21 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top">
+
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-J&layout=compact&hide_border=true)
 
----
+</td>
+<td valign="top">
 
 ### 📬 Contact
+<br>
+
 [![Email](https://img.shields.io/badge/Email-sjnnus@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sjnnus@gmail.com)
+
+</td>
+</tr>
+</table>
