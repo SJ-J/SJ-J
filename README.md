@@ -20,12 +20,9 @@
 ---
 
 ### 📊 GitHub Stats
-
-![SJ-J's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJ-J&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-J&layout=compact&hide_border=true)
 
 ---
 
 ### 📬 Contact
-
 [![Email](https://img.shields.io/badge/Email-sjnnus@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sjnnus@gmail.com)
